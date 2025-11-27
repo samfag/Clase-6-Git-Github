@@ -4,3 +4,4 @@
 |Spiderman | Marvel |
 |Mario | Super Mario Bros Nintendo |
 |Peach | Super Mario Bros Nintendo |
+|Donkey Kong | Super Mario Bros Nintendo |
