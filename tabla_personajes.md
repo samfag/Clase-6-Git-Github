@@ -4,3 +4,4 @@
 |Spiderman | Marvel |
 |Mario | Super Mario Bros Nintendo |
 |Darth Vader| Star Wars|
+|Peach | Super Mario Bros Nintendo |
