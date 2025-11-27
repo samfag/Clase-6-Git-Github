@@ -3,3 +3,4 @@
 |Link | The Legend of Zelda|
 |Spiderman | Marvel |
 |Mario | Super Mario Bros Nintendo |
+|Peach | Super Mario Bros Nintendo |
