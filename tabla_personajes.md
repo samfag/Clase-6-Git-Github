@@ -5,3 +5,4 @@
 |Mario | Super Mario Bros Nintendo |
 |Darth Vader| Star Wars|
 |Peach | Super Mario Bros Nintendo |
+|Donkey Kong | Super Mario Bros Nintendo |
